@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Ouverture !
 ---
 # APERTURA
 ## Ensemble vocal et instrumental, 
