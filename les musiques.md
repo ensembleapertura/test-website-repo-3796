@@ -26,6 +26,9 @@ d'après la célèbre chanson de Sandrin...
 
 ![2017](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Luther-2017.jpg?raw=true)
 
+###### 2015, Roland Furieux
+
+![2015](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Roland.jpg?raw=true)
 
 
 ###### 2013, Chœurs multiples
