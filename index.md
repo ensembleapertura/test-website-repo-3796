@@ -1,7 +1,7 @@
 ---
 title: Ouverture !
 ---
-![logo](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Logo%20APERTURA1.png)
+![logo](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Logo%20APERTURA1.png?raw=true)
 
 # APERTURA
 
