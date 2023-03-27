@@ -1,6 +1,10 @@
 ---
 title: Les musiques
 ---
+###### 2013, Chœurs multiples
+
+![2013](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/couverture-CoeursMultiples-2013.jpg?raw=true)
+
 ###### 2017, les 500 ans de la Réforme de Luther
 
 ![2017](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Luther-2017.jpg?raw=true)
