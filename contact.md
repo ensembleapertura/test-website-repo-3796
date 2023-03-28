@@ -1,7 +1,7 @@
 ---
 title: Contact
 ---
-Pour contacter APERTURA : [ensemble.apertura@free.fr](mailto:)
+[APERTURA](ensemble.apertura@free.fr)
 
 Le conteur [Thierry  Giraud](https://thierrygiraudconteur.wordpress.com/)
 
