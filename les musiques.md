@@ -33,6 +33,10 @@ d'après la célèbre chanson de Sandrin...
 
 ![2015](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Roland.jpg?raw=true)
 
+### 2015, Philippe de Monte
+
+![2015](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-affiche-prenom-2008.png?raw=true)
+
 
 ### 2013, Chœurs multiples
 
