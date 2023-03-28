@@ -1,7 +1,7 @@
 ---
 title: Les musiques
 ---
-#### 2023, Vinum Bonum
+### 2023, Vinum Bonum
 
 Vinum Bonum, contes & musiques de la Renaissance.
 Les inventeurs des chansons à boire seraient les goliards, des poètes vagabonds formés dans les écoles monastiques. Ils écrivent en latin, en vieux français ou en allemand, n’hésitant pas à parodier des chants religieux.
@@ -13,7 +13,7 @@ Claudin de Sermisy nous demande : « Voulez-vous chose plus bonne pour vendanger
 
 ![2019-Présentation programme "Vinum Bonum"](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-VinumBonum.png?raw=true)
 
-#### 2020, Doulce mémoire
+### 2020, Doulce mémoire
 
 d'après la célèbre chanson de Sandrin...
 
@@ -24,20 +24,20 @@ d'après la célèbre chanson de Sandrin...
 
 
 
-#### 2017, les 500 ans de la Réforme de Luther
+### 2017, les 500 ans de la Réforme de Luther
 
 ![2017](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Luther-2017.jpg?raw=true)
 
-#### 2015, Roland Furieux
+### 2015, Roland Furieux
 ##### en compagnie du conteur Thierry Giraud
 
 ![2015](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Roland.jpg?raw=true)
 
 
-#### 2013, Chœurs multiples
+### 2013, Chœurs multiples
 
 ![2013](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/couverture-CoeursMultiples-2013.jpg?raw=true)
 
-#### 2011, Couleurs et chromatismes
+### 2011, Couleurs et chromatismes
 
 ![2011](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-color-affiche-couleur-04.jpg?raw=true)
