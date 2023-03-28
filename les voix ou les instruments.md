@@ -13,13 +13,15 @@ de la soprano à la basse.
 
 ###### Les embouchures (les cuivres)
 
-Les cornets à bouquin, cornettino à ténor
+Les cornets à bouquin, cornet muet à ténor
 
 ![Les cornets](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Three_cornetts.jpg/300px-Three_cornetts.jpg)
 
 #### Les cordes :
 
 ###### pincées
+
+Le luth, la guitare renaissance
 
 ![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png)
 
