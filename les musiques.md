@@ -41,3 +41,15 @@ d'après la célèbre chanson de Sandrin...
 ### 2011, Couleurs et chromatismes
 
 ![2011](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-color-affiche-couleur-04.jpg?raw=true)
+
+### 2010, Au four et au moulin
+
+![2010](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Apertura-aufour-affiche-2010.jpg?raw=true)
+
+### 2008, Quelques prénoms
+
+![2008, les prénoms](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-affiche-prenom-2008.png?raw=true)
+
+### 2005, Gabrieli
+
+![2005, Gabrieli](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Apertura-couverture-Gabrieli-2005.jpg?raw=true)
