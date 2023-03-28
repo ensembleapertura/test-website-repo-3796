@@ -50,6 +50,10 @@ d'après la célèbre chanson de Sandrin...
 
 ![2010](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Apertura-aufour-affiche-2010.jpg?raw=true)
 
+### 2009, Calvin
+
+![Musiques du siècle de Calvin](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-calvin-mel.jpg?raw=true)
+
 ### 2008, Quelques prénoms
 
 ![2008, les prénoms](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/apertura-affiche-prenom-2008.png?raw=true)
