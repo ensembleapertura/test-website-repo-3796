@@ -17,6 +17,8 @@ Thierry Giraud, conteur, qui nous avait raconté Roland Furieux lors du précéd
 
 d'après la célèbre chanson de Sandrin...
 
+##### en compagnie du conteur Thierry Giraud
+
 ![présentation programme "Doulce mémoire"](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/couvertureDoulceMemoire.png?raw=true)
 
 
@@ -27,7 +29,7 @@ d'après la célèbre chanson de Sandrin...
 ![2017](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Luther-2017.jpg?raw=true)
 
 ###### 2015, Roland Furieux
-### en compagnie du conteur Thierry Giraud
+##### en compagnie du conteur Thierry Giraud
 
 ![2015](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-Roland.jpg?raw=true)
 
