@@ -20,7 +20,7 @@ de la soprano à la basse.
 De nombreux auteurs consacrent des ouvrages théoriques à la flûte à bec. Parmi eux, Sylvestro Ganassi qui publie la «Fontegara» à Venise en 1535, véritable méthode pour l'instrument, et ses possibilités d'ornementation virtuose. Le modèle soliste est alors une alto en sol, capable d'attendre un ambitus de 2 octaves et une sixte.
 La large perce cylindrique, évasée à son extrémité, munie d'une fenêtre peu profonde et d'un canal étroit produit un son aux graves ronds et pleins, aux aigus puissants. Vers 1500, l'instrument est construit en 4 tailles.
 
-Documentation : Les instruments de la Renaissance, Guy Laurent, éd. Fuzeau.
+
 
 
 ###### Les embouchures (les cuivres)
@@ -41,10 +41,11 @@ Le luth, la guitare renaissance
 ![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png)
 
 Issu de l'instrument médiéval le luth de la Renaissance se présente comme suit :
-Une caisse piriforme (formée au moule et assemblée par collage), une table d'épicéa très fine (renforcée de 6 barres) percée d'une rosace, un manche large et court (ligaturé de 8 à 10 frettes chromatiques en boyaux) et un encordage léger tendu par un chevalet fixe (collé sur la table).
+une caisse piriforme (formée au moule et assemblée par collage), une table d'épicéa très fine (renforcée de 6 barres) percée d'une rosace, un manche large et court (ligaturé de 8 à 10 frettes chromatiques en boyaux) et un encordage léger tendu par un chevalet fixe (collé sur la table).
+
 Les cordes sont touchées par l'extrémité tendre du bout des doigts.
 
-La guitare se présente comme une petite vihuela, au dos plat ou bombé et au .long manche fin tendu de cordes doubles en boyaux
+La guitare se présente comme une petite vihuela, au dos plat ou bombé et au long manche fin tendu de cordes doubles en boyaux
 
 ###### frottées
 
@@ -55,3 +56,9 @@ le violon et l'alto, les violes de gambes
 Le terme de violon est mentionné pour la première fois en 1529. Les premiers instruments, construits en trois tailles_: dessus, taille, basse contre, comptent trois cordes. En 1556, Philibert Jambe de Fer indique qu'il ont 4 cordes. Surtout joué en «première position», il dispose d'un ambitus moyen de 3 octaves et 1 quinte. 
 Si l'instrument ressemble à notre violon moderne, sa facture, aussi bien que son jeu diffèrent profondément. Tenu à l'écart des ensembles aristocratiques, c'est d'abord un instrument de plein air, joué par les professionnels pour la danse, où l'on apprécie sa maniabilité et sa sonorité puissante.
 En Italie d'abord, il devient progressivement populaire et s'associe aux instruments savant, dans les ballets et les fêtes champêtres. François 1er s'attachera des violons pour son Écurie (Orchestre de plein air). Mais c'est au siècle suivant que le violon prendra la place privilégiée qui fera de lui «le roi des instruments».
+
+La viole de gambe possède une caisse légère avec épaules vers le manche et échancrée au milieu. Le dos est à fond plat, anglé vers le haut. La table est percée de 2 ouies en forme de C. Le manche est muni de 7 ou 8 frettes chromatiques en boyaux. Il est surmonté d'un chevillier avec une tête sculptée. La viole a 7 ou 8 cordes en boyaux tendues sur un chevalet presque plat.
+
+Son appellation indique qu'on la joue posée sur le genou (pour les petits modèles) ou calée entre les jambes.
+
+Documentation : Les instruments de la Renaissance, Guy Laurent, éd. Fuzeau.
