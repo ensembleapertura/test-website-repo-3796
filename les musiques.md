@@ -19,7 +19,7 @@ d'après la célèbre chanson de Sandrin...
 
 ##### en compagnie du conteur Thierry Giraud
 
-![présentation programme "Doulce mémoire"](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_COULEUR-Affiche-doulcememoire-StChristophe-page001.jpg?raw=true)
+![présentation programme "Doulce mémoire"](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_COULEUR-doulcememoire-Couverture.jpg?raw=true)
 
 
 
