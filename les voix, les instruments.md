@@ -40,6 +40,12 @@ Le luth, la guitare renaissance
 
 ![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png)
 
+Issu de l'instrument médiéval le luth de la Renaissance se présente comme suit :
+Une caisse piriforme (formée au moule et assemblée par collage), une table d'épicéa très fine (renforcée de 6 barres) percée d'une rosace, un manche large et court (ligaturé de 8 à 10 frettes chromatiques en boyaux) et un encordage léger tendu par un chevalet fixe (collé sur la table).
+Les cordes sont touchées par l'extrémité tendre du bout des doigts.
+
+La guitare se présente comme une petite vihuela, au dos plat ou bombé et au .long manche fin tendu de cordes doubles en boyaux
+
 ###### frottées
 
 le violon et l'alto, les violes de gambes
