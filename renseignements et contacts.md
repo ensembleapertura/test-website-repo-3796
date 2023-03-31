@@ -1,7 +1,7 @@
 ---
 title: Renseignements et Contacts
 ---
-APERTURA, mél. : ensemble.apertura@free.fr
+APERTURA, mél. : ensemble.apertura@free.fr APERTURA <Ensemble@aperturaXVI.org>
 
 Le conteur [www de Thierry  Giraud](https://thierrygiraudconteur.wordpress.com/)
 
