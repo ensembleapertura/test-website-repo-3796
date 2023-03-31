@@ -63,4 +63,4 @@ La **viole de gambe** possède une caisse légère avec épaules vers le manche 
 
 Son appellation indique qu'on la joue posée sur le genou (pour les petits modèles) ou calée entre les jambes.
 
-Documentation : Les instruments de la Renaissance, Guy Laurent, éd. Fuzeau.
+**_Documentation : Les instruments de la Renaissance, Guy Laurent, éd. Fuzeau._**
