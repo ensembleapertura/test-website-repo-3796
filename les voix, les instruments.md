@@ -10,11 +10,11 @@ En plus de la douzaine de chanteurs qui chantent les paroles, les instruments pe
 
 
 
-#### Les instruments à vent :
+### Les instruments à vent :
 
-###### La famille des flûtes à bec : 
+##### La famille des flûtes à bec : 
 
-####### Des différentes basses à la sopranino.
+###### Des différentes basses à la sopranino.
 
 ![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png)
 
@@ -25,20 +25,20 @@ La large perce cylindrique, évasée à son extrémité, munie d'une fenêtre pe
 
 
 
-###### Les embouchures (les cuivres)
+##### Les embouchures (les cuivres)
 
-####### Les cornets à bouquin, cornet muet à ténor
+###### Les cornets à bouquin, cornet muet à ténor
 
 ![Les cornets](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Three_cornetts.jpg/300px-Three_cornetts.jpg)
 
 Association d'une embouchure à cuvette sur un instrument en bois à perce conique dotée de trous de jeu, le **cornet** réunit des qualités musicales qui le placent au-dessus de tous les vents, propre à tous les emplois, perfection de l'esthétique Renaissance. Éclatant avec les trompettes, doux avec les cordes et les flûtes, il est le plus apte à chanter comme la voix humaine - modèle d'expression recherché par tous les instruments. Il double les voix, les remplace, dialogue avec elles grâce à une imitation parfaite aussi bien de l'articulation consonantique que des couleurs vocaliques de la parole. S'il na pas d'embouchure il devient cornet muet.
 
 
-#### Les cordes :
+### Les cordes :
 
-###### pincées
+##### pincées
 
-####### Le luth, la guitare renaissance
+###### Le luth, la guitare renaissance
 
 ![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png)
 
@@ -49,9 +49,9 @@ Les cordes sont touchées par l'extrémité tendre du bout des doigts.
 
 La **guitare** se présente comme une petite vihuela, au dos plat ou bombé et au long manche fin tendu de cordes doubles en boyaux
 
-###### frottées
+##### frottées
 
-####### Le violon et l'alto, les violes de gambes
+###### Le violon et l'alto, les violes de gambes
 
 ![Les violes de gambe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_da_gamba.png/330px-Viola_da_gamba.png)
 
