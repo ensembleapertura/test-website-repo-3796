@@ -57,11 +57,14 @@ La **guitare** se présente comme une petite vihuela, au dos plat ou bombé et a
 
 ###### Le violon et l'alto, les violes de gambes
 
-![Les violes de gambe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_da_gamba.png/330px-Viola_da_gamba.png "Violes de gambe, Syntagma musicum, Michael Praetorius. (1614/1620)")
+![Les violons](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/violons.jpg?raw=true"Violons, Syntagma musicum, Michael Praetorius. (1614/1620)")
 
 Le terme de **violon** est mentionné pour la première fois en 1529. Les premiers instruments, construits en trois tailles_: dessus, taille, basse contre, comptent trois cordes. En 1556, Philibert Jambe de Fer indique qu'il ont 4 cordes. Surtout joué en «première position», il dispose d'un ambitus moyen de 3 octaves et 1 quinte. 
 Si l'instrument ressemble à notre violon moderne, sa facture, aussi bien que son jeu diffèrent profondément. Tenu à l'écart des ensembles aristocratiques, c'est d'abord un instrument de plein air, joué par les professionnels pour la danse, où l'on apprécie sa maniabilité et sa sonorité puissante.
 En Italie d'abord, il devient progressivement populaire et s'associe aux instruments savant, dans les ballets et les fêtes champêtres. François 1er s'attachera des violons pour son Écurie (Orchestre de plein air). Mais c'est au siècle suivant que le violon prendra la place privilégiée qui fera de lui «le roi des instruments».
+
+
+![Les violes de gambe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_da_gamba.png/330px-Viola_da_gamba.png "Violes de gambe, Syntagma musicum, Michael Praetorius. (1614/1620)")
 
 La **viole de gambe** possède une caisse légère avec épaules vers le manche et échancrée au milieu. Le dos est à fond plat, anglé vers le haut. La table est percée de 2 ouies en forme de C. Le manche est muni de 7 ou 8 frettes chromatiques en boyaux. Il est surmonté d'un chevillier avec une tête sculptée. La viole a 5 à 7 cordes en boyaux tendues sur un chevalet presque plat.
 
