@@ -44,7 +44,7 @@ Association d'une embouchure à cuvette sur un instrument en bois à perce coniq
 
 ###### Le luth, la guitare renaissance
 
-![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png)
+![le luth](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lautenmacher-1568.png/255px-Lautenmacher-1568.png "Atelier d'un luthier (1568)")
 
 Issu de l'instrument médiéval le **luth** de la Renaissance se présente comme suit :
 une caisse piriforme (formée au moule et assemblée par collage), une table d'épicéa très fine (renforcée de 6 barres) percée d'une rosace, un manche large et court (ligaturé de 8 à 10 frettes chromatiques en boyaux) et un encordage léger tendu par un chevalet fixe (collé sur la table).
