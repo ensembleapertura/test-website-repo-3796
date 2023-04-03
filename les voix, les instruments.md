@@ -33,7 +33,7 @@ La large perce cylindrique, évasée à son extrémité, munie d'une fenêtre pe
 
 ###### Les cornets à bouquin, cornet muet à ténor
 
-![Les cornets](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Three_cornetts.jpg/300px-Three_cornetts.jpg)
+![Les cornets](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Three_cornetts.jpg/300px-Three_cornetts.jpg "Cornet muet, cornets à bouquin alto et ténor")
 
 Association d'une embouchure à cuvette sur un instrument en bois à perce conique dotée de trous de jeu, le **cornet** réunit des qualités musicales qui le placent au-dessus de tous les vents, propre à tous les emplois, perfection de l'esthétique Renaissance. Éclatant avec les trompettes, doux avec les cordes et les flûtes, il est le plus apte à chanter comme la voix humaine - modèle d'expression recherché par tous les instruments. Il double les voix, les remplace, dialogue avec elles grâce à une imitation parfaite aussi bien de l'articulation consonantique que des couleurs vocaliques de la parole. S'il na pas d'embouchure il devient cornet muet.
 
