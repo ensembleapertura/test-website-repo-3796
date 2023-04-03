@@ -20,7 +20,7 @@ soprano - alto - ténor - basse.
 
 ###### Des différentes basses à la sopranino.
 
-![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png "Syntagma musicum, Michael Praetorius. (1614/1620)")
+![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png "Flûtes à bec, Syntagma musicum, Michael Praetorius. (1614/1620)")
 
 
 De nombreux auteurs consacrent des ouvrages théoriques à la **flûte à bec**. Parmi eux, Sylvestro Ganassi qui publie la «Fontegara» à Venise en 1535, véritable méthode pour l'instrument, et ses possibilités d'ornementation virtuose. Le modèle soliste est alors une alto en sol, capable d'attendre un ambitus de 2 octaves et une sixte.
