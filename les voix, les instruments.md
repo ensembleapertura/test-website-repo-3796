@@ -14,7 +14,7 @@ En plus de la douzaine de chanteurs qui chantent les paroles, les instruments pe
 
 ###### La famille des flûtes à bec : 
 
-de la soprano à la basse.
+les différentes basse à la sopranino.
 
 ![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png)
 
