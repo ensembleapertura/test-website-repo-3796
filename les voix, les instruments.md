@@ -20,7 +20,7 @@ soprano - alto - ténor - basse.
 
 ###### Des différentes basses à la sopranino.
 
-![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png "Syntagma musicum, Michael Praetorius. 1614-1620")
+![Les flûtes à bec](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barocke_Blockfl%C3%B6ten.png/330px-Barocke_Blockfl%C3%B6ten.png "Syntagma musicum, Michael Praetorius. (1614/1620)")
 
 
 De nombreux auteurs consacrent des ouvrages théoriques à la **flûte à bec**. Parmi eux, Sylvestro Ganassi qui publie la «Fontegara» à Venise en 1535, véritable méthode pour l'instrument, et ses possibilités d'ornementation virtuose. Le modèle soliste est alors une alto en sol, capable d'attendre un ambitus de 2 octaves et une sixte.
@@ -57,7 +57,7 @@ La **guitare** se présente comme une petite vihuela, au dos plat ou bombé et a
 
 ###### Le violon et l'alto, les violes de gambes
 
-![Les violes de gambe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_da_gamba.png/330px-Viola_da_gamba.png ""Syntagma musicum, Michael Praetorius. (1614/1620)")
+![Les violes de gambe](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_da_gamba.png/330px-Viola_da_gamba.png "Violes de gambe, Syntagma musicum, Michael Praetorius. (1614/1620)")
 
 Le terme de **violon** est mentionné pour la première fois en 1529. Les premiers instruments, construits en trois tailles_: dessus, taille, basse contre, comptent trois cordes. En 1556, Philibert Jambe de Fer indique qu'il ont 4 cordes. Surtout joué en «première position», il dispose d'un ambitus moyen de 3 octaves et 1 quinte. 
 Si l'instrument ressemble à notre violon moderne, sa facture, aussi bien que son jeu diffèrent profondément. Tenu à l'écart des ensembles aristocratiques, c'est d'abord un instrument de plein air, joué par les professionnels pour la danse, où l'on apprécie sa maniabilité et sa sonorité puissante.
