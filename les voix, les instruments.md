@@ -3,6 +3,10 @@ title: Les voix, les instruments
 ---
 En plus de la douzaine de chanteurs qui chantent les paroles, les instruments permettent de varier les couleurs de l’ensemble : le luth, les flûtes à bec, le cornet, la harpe, violes de gambe et violon soit doublent les voix ou jouent des pièces instrumentales.
 
+Les partitions des voix comme des instruments se trouvent souvent en parties séparées mais sont rassemblées pour plus de facilités de lecture.
+Il y a de quatre à six voix ou même plus avec quatre tessitures principales :
+Soprano - alto - ténor - basse.
+
 **_La voix ! Du but._**
 >_Vous devez savoir que tous les instruments de musique sont moins dignes que la voix humaine. Il faut donc que nous nous efforcions d'apprendre d'après elle et de l'imiter. Tu pourrais objecter : "Comment une telle chose est-elle possible, puisqu'elle produit toutes les paroles ? Par conséquent, je ne crois pas que la flûte soit jamais semblable à la voix humaine." Et moi je te réponds que, de la même façon qu'un digne et parfait peintre imite toute chose créée par la nature avec la variété des couleurs, ainsi avec tel instrument à vent ou à cordes, tu pourras imiter le langage de la voix humaine. Il est vrai que le peintre, avec ses diverses couleurs, imite les effets de la nature, parce que celle-ci produit diverses couleurs. De même la voix humaine produit une variété de timbres, avec plus ou moins de force et des syllabes diverses. Si le peintre imite les effets de la nature avec ses couleurs, l'instrument imitera le langage de la voix humaine avec l'intensité du souffle, l'attaque de la langue et l'aide des doigts. J'en ai fait l'expérience et j'ai entendu d'autres instrumentistes arriver à faire entendre des paroles grâce à leur jeu, de sorte qu'on pouvait dire qu'il ne manquait à ces instruments que la forme du corps humain comme on dit d'un beau tableau qu'il ne lui manque que le souffle. Vous devez donc tenir pour certain que le but, pour la raison susdite, est de pouvoir imiter la parole._
 
