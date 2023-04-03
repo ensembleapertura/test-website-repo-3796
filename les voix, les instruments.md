@@ -12,7 +12,7 @@ soprano - alto - ténor - basse. Souvent la musique occupe l'espace avec l'effet
 
 **_Sylvestro GANASSI, La Fontegara, 1535._**
 
-
+![Couverture, La Fontegara, 1535 de Ganassi](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/FS-ganassi-lafontegara.jpg?raw=true "La Fontegara, Ganassi, 1535" )
 
 ### Les instruments à vent :
 
