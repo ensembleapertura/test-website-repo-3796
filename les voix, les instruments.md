@@ -31,7 +31,7 @@ La large perce cylindrique, évasée à son extrémité, munie d'une fenêtre pe
 
 ##### Les embouchures (les cuivres)
 
-###### Les cornets à bouquin, cornet muet à ténor
+###### Les cornets : cornet muet, cornet à bouquin alto et ténor
 
 ![Les cornets](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Three_cornetts.jpg/300px-Three_cornetts.jpg "Cornet muet, cornets à bouquin alto et ténor")
 
