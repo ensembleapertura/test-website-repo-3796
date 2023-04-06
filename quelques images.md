@@ -11,7 +11,7 @@ title: Quelques images
 
 #### 2018, Roland Furieux en Normandie
 
-![2028 à Eu](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/web-ThierryGiraud.JPG?raw=true"Thierry Giraud conte Roland Furieux de l'Arioste")
+![2028 à Eu](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/web-2018-ThierryGiraud.JPG?raw=true"Thierry Giraud conte Roland Furieux de l'Arioste")
 
 ##### 2016, La Lande de Pomerol (33)
 
