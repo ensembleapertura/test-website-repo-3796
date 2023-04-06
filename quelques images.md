@@ -9,6 +9,9 @@ title: Quelques images
 
 ![2019, Moulin de Lagnet, Thierry Giraud](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/2019-05-04-apertura-vinumBonum-MdL-035.jpg?raw=true)
 
+#### 2018, Roland Furieux en Normandie
+
+![2028 à Eu](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/web-ThierryGiraud.JPG?raw=true"Thierry Giraud conte Roland Furieux de l'Arioste)
 
 ##### 2016, La Lande de Pomerol (33)
 
