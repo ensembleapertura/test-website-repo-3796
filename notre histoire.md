@@ -3,7 +3,7 @@ title: Notre histoire
 ---
 En décembre 1989 notre premier concert présentait des chorégraphies sur la musique italienne de GASTOLDI et BANCHIERI (XVI°), les "balletti" et le "festino" en collaboration avec l'Ecole de danse de Brigitte BRUN et l'Ecole d'Arts Plastiques de Libourne.
 
-En 1992, un échange culturel emmenait APERTURA jusqu'en Argentine pour y faire connaître, en compagnie de "Musique-Chants-Couleurs", des chansons françaises du XVI° siècle.
+En 1992, un échange culturel emmenait APERTURA jusqu'en Argentine pour y faire entendre, en compagnie de "Musique-Chants-Couleurs" (Parenpuyre, 33), des chansons françaises du XVI° siècle.
 
 En 1993 et 1994, un concert consacré à Giovanni Pierluigi da PALESTRINA (musicien romain mort en 1594) était donné à plusieurs reprises dans la région avec Cathy ROSSIGNOL, soprano.
 
