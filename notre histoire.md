@@ -1,7 +1,7 @@
 ---
 title: Notre histoire
 ---
-En décembre 1989 notre premier concert présentait des chorégraphies sur la musique italienne de GASTOLDI et BANCHIERI (XVI°), les "balletti" et le "festino" en collaboration avec l'Ecole de danse de Brigitte BRUN et l'Ecole d'Arts Plastiques de Libourne.
+En décembre 1989 notre premier concert présentait des chorégraphies sur la musique italienne de GASTOLDI et BANCHIERI (XVI°), les _Balletti_ et le _Festino_ en collaboration avec l'Ecole de danse de Brigitte BRUN et l'Ecole d'Arts Plastiques de Libourne.
 
 En 1992, un échange culturel emmenait APERTURA jusqu'en Argentine pour y faire entendre, en compagnie de "Musique-Chants-Couleurs" (Parenpuyre, 33), des chansons françaises du XVI° siècle.
 
@@ -18,7 +18,9 @@ Le programme "Bruits de "Batailles ...1515..." Autour de la Messe "La Bataille" 
 En avril 2000, les instruments ont accompagné les représentations de « Lucrèce Borgia » de Victor Hugo, pièce jouée par les comédiens du   G.A.L.A. au centre Marcel Paul, à Bordeaux.
 
 Puis  Lassus-Palestrina en 2001 avec l'ensemble EURYDICE (chœur de femmes, direction Elsa Goujon-Grégori) – Bruits de batailles 1515... – lors du colloque sur la Bataille de Castillon (1453) Ockeghem (messe "l'homme armé"), Binchois, Busnois, Dunstable... – Andrea & Giovanni Gabrieli – Chants d'oiseaux et autres animaux – Les prénoms – Au four et au moulin – Couleurs et chromatismes – Cœurs multiples – Philippe de Monte (1521-1603), musicien qui a parcouru toute l'Europe - Luther, 1517-2017. 
-Le Roland Furieux de l'Arioste a été le prétexte de notre précédent concert. Nous étions alors en compagnie de Thierry Giraud, conteur. 
+Le Roland Furieux de l'Arioste a été le prétexte de notre concert suivant. Nous étions alors en compagnie de Thierry Giraud, conteur. Il nous disait des extrait de _Orlando furioso_, les aventures chevaleresques et amoureuses à la court de Charlemagne.
+2020 à 2022, période de calme où nous préparons un programme autour de la chanson _Doulce mémoire_ de Sandrin. Comme R. de Lassus l'a pris pour thème d'une messe, nous en chantons des extraits.
+En 2023, c'est _Vinum Bonum_ : le motet et la messe de Lassus. Des doubles-chœurs, quelques chansons bachiques et des danses complêtent ce concert.
 
 
 L'ensemble APERTURA remercie la Mairie de Saint-Germain-de-la-Rivière (33240) pour son soutien.
