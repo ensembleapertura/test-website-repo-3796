@@ -15,7 +15,7 @@ Claudin de Sermisy nous demande : « Voulez-vous chose plus bonne pour vendanger
 
 ### 2020, Doulce mémoire
 
-d'après la célèbre chanson de Pierre Regnault dit Sandrin. Parue en 1538 chez Attaingnant, ses rééditions jalonnent plus d'un siècle. Les premières adaptations instrumentales sont dues au luthiste italien Albert de Rippe et à l'organiste polonais Jan z Lublina.  Suivent les versions pour orgue de Nikolaus Ammerbach et de Hernando de Cabezon, enfin pour instrument à cordes, Girolamo Della Casa destine ses diminutions à la viola bastarda. Nous chantons des extraits de la messe _ad imitationem moduli Doulce mémoire_ de Roland de Lassus, une version de la chanson à six voix de Jacques Buus et quelques douceurs de Andreas Pevernage et Jan Tollius.
+d'après la célèbre chanson de Pierre Regnault dit Sandrin. Parue en 1538 chez Attaingnant, ses rééditions jalonnent plus d'un siècle. Les premières adaptations instrumentales sont dues au luthiste italien Albert de Rippe et à l'organiste polonais Jan z Lublina.  Suivent les versions pour orgue de Nikolaus Ammerbach et de Hernando de Cabezon, enfin pour instrument à cordes, Girolamo Della Casa destine ses diminutions à la viola bastarda. Nous chantons des extraits de la messe _ad imitationem moduli Doulce mémoire_ de Roland de Lassus, une version de la chanson à six voix de Jacques Buus et quelques douceurs d'Andreas Pevernage et Jan Tollius.
 
 ##### en compagnie du conteur Thierry Giraud
 
