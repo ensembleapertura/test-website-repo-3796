@@ -17,4 +17,4 @@ Ensemble Choral de Libourne, mél : <enschorallibourne@free.fr>
 Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
 Autre site fait avec Scribouilli :
  
-[Amap de Vérac, 33](https://laem-amap.github.io/test-website-repo-3796/>)
+[Amap de Vérac, 33](https://laem-amap.github.io/test-website-repo-3796)
