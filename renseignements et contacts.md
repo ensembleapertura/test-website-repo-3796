@@ -12,3 +12,9 @@ Thierry Giraud, mél. : <thierrygiraud.conteur@gmail.com>
 [www de l'Ensemble Choral de Libourne](https://ensemble-choral-de-libourne.s2.yapla.com/fr/presentation)
 
 Ensemble Choral de Libourne, mél : <enschorallibourne@free.fr>
+
+
+Merci à Scribouilli pour la mise à disposition de l'outil et l'aide.
+Autre site fait avec Scribouilli :
+ 
+[Amap de Vérac, 33](https://laem-amap.github.io/test-website-repo-3796/>)
