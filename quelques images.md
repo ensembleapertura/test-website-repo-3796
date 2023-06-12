@@ -5,13 +5,21 @@ title: Quelques images
 
 ![Église de Puy For Éguille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-05-22-TG-Apertura-DouceMemoire-PFE-01.jpg?raw=true)
 
+##### Au temple de Castillon La Bataille (33)
+
+![Temple de Castillon La Bataille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-Castillon.JPG)
+
 ##### 2019, en compagnie du conteur Thierry Giraud,  au Château Moulin de Lagnet, (Saint-Christophe-des-Bardes 33) programme Vinum Bonum
 
 ![2019, Moulin de Lagnet, Thierry Giraud](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/2019-05-04-apertura-vinumBonum-MdL-035.jpg?raw=true)
 
-#### 2018, Roland Furieux en Normandie
+##### 2018, Roland Furieux en Normandie
 
 ![2018 à Eu](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/web-2018-ThierryGiraud.JPG?raw=true "Thierry Giraud conte Roland Furieux de l'Arioste")
+
+##### 2017, Salle du Carmel, Libourne (33)
+
+![Musée du Carmel](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_LibourneCarmel.JPG)
 
 ##### 2016, La Lande de Pomerol (33)
 
