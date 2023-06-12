@@ -1,5 +1,5 @@
 ---
-title: Ouverture
+title: A-Ouverture
 ---
 ![logo](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Logo%20APERTURA-resized-300x225.png?raw=true "Apertura, direction Jean Goujon")
 
