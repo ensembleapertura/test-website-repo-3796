@@ -3,7 +3,7 @@ title: Renseignements et Contacts
 ---
 APERTURA, mél. : <ensemble.apertura@free.fr>
 
-Le conteur [www de Thierry  Giraud](https://thierrygiraudconteur.wordpress.com/)
+Le conteur [www de Thierry  Giraud](https://thierrygiraudconteur.fr/)
 
 [Thierry Giraud, Facebook](https://www.facebook.com/Thierry-Giraud)
 
