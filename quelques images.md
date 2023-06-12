@@ -7,7 +7,7 @@ title: Quelques images
 
 ##### Au temple de Castillon La Bataille (33)
 
-![Temple de Castillon La Bataille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-Castillon.JPG)
+![Temple de Castillon La Bataille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-Castillon.JPG?raw=true"Raccord avant le concert")
 
 ##### 2019, en compagnie du conteur Thierry Giraud,  au Château Moulin de Lagnet, (Saint-Christophe-des-Bardes 33) programme Vinum Bonum
 
@@ -19,7 +19,7 @@ title: Quelques images
 
 ##### 2017, Salle du Carmel, Libourne (33)
 
-![Musée du Carmel](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_LibourneCarmel.JPG)
+![Musée du Carmel](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_LibourneCarmel.JPG?raw=true)
 
 ##### 2016, La Lande de Pomerol (33)
 
