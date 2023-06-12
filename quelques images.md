@@ -17,10 +17,6 @@ title: Quelques images
 
 ![2018 à Eu](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/web-2018-ThierryGiraud.JPG?raw=true "Thierry Giraud conte Roland Furieux de l'Arioste")
 
-##### 2017, Salle du Carmel, Libourne (33)
-
-![Musée du Carmel](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_LibourneCarmel.JPG?raw=true)
-
 ##### 2016, La Lande de Pomerol (33)
 
 ![2016-La Lande de Pomerol](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/2016-03-lalandedePomerol4.jpg?raw=true)
@@ -32,6 +28,10 @@ title: Quelques images
 ##### 2012, au Musée de Libourne (33)
 
 ![2012, Musée de Libourne](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2012-apertura-patrimoineMairieLibourne3.jpg?raw=true)
+
+##### 2009, Salle du Carmel, Libourne (33)
+
+![Musée du Carmel](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_LibourneCarmel.JPG?raw=true)
 
 
 ##### 2008, Concert à la Maison Carré de Nay (64)
