@@ -9,7 +9,7 @@ order: 3
 
 Programme : Vinum Bonum
 
-###### Église de Rauzan, 16 septembre 2023, 17h30.
+###### Église Saint-Pierre de Rauzan, 16 septembre 2023, 17h30.
 
 Programme : Doulce mémoire, en compagnie de Thierry Giraud, conteur.
 
