@@ -7,9 +7,11 @@ order: 3
 
 ###### Église de Saint-Germain-de-la-Rivière, 8 octobre, 17h.
 
+
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3359144926071167%2C44.94612460051607%2C-0.32883346080780035%2C44.94921889400521&amp;layer=mapnik&amp;marker=44.94767366645072%2C-0.3323739767074585" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.94767&amp;mlon=-0.33237#map=18/44.94767/-0.33237">Afficher une carte plus grande</a></small>
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3394389152526856%2C44.94460207095928%2C-0.3252768516540528%2C44.950790655276876&amp;layer=mapnik&amp;marker=44.94769264984257%2C-0.33235788345336914" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.94769&amp;mlon=-0.33236#map=17/44.94770/-0.33236">Afficher une carte plus grande</a></small>
 
 
 ###### Église Saint-Pierre de Rauzan, 16 septembre 2023, 17h30.
