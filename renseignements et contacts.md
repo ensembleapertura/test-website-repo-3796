@@ -1,5 +1,6 @@
 ---
-title: Renseignements et Contacts
+title: "Renseignements et Contacts"
+order: 8
 ---
 APERTURA, mél. : <ensemble.apertura@free.fr>
 
