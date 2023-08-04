@@ -4,6 +4,8 @@ order: 6
 ---
 ##### 2022, Puy Fort Éguille (47)
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.34651994705200195%2C44.94150373150721%2C-0.3181958198547364%2C44.953880900960996&amp;layer=mapnik&amp;marker=44.94769264984257%2C-0.33235788345336914" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.9477&amp;mlon=-0.3324#map=16/44.9477/-0.3324">Afficher une carte plus grande</a></small>
+
 ![Église de Puy For Éguille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-05-22-TG-Apertura-DouceMemoire-PFE-01.jpg?raw=true)
 
 ##### Au temple de Castillon La Bataille (33)
