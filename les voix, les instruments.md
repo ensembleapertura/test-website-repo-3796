@@ -1,6 +1,6 @@
 ---
 title: "Les voix, les instruments"
-order: 1
+order: 5
 ---
 En plus de la douzaine de chanteurs qui chantent les paroles, les instruments permettent de varier les couleurs de l’ensemble : le luth, les flûtes à bec, le cornet, la harpe, violes de gambe et violon soit doublent les voix ou jouent des pièces instrumentales.
 
