@@ -1,5 +1,6 @@
 ---
-title: Productions d'amis
+title: "Productions d'amis"
+order: 7
 ---
 ##### L'Ensemble Choral de Libourne chante à Castillon La Bataille, en compagnie de Chantamicale.
 
