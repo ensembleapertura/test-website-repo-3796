@@ -2,7 +2,8 @@
 title: "Productions d'amis"
 order: 7
 ---
-##### Orfeo 2000 une série de concerts dans le libournais.
+##### Orfeo 2000 une série de concerts dans le libournais. L’ensemble Orfeo 2000 revient dans les vignobles du Bordelais comme il le fait depuis plus de 20 ans. Le programme associera musiques des 17ème et 18ème siècles et la lecture du conte de Perrault le Petit Poucet.
+
 ![Calendrier des concerts](/images/web_2023-09-JPM-concerts.jpg)
 
 
