@@ -46,7 +46,7 @@ order: 6
 
 ##### 1993, au temple de Libourne (33)
 
-![1993, concert Palestrina](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_apertura-1993-templepalestrina.jpeg?raw=true "Musiques de Palestrina")
+![1993, concert Palestrina](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_apertura-1993-templepalestrina.jpeg?raw=true "Musiques de Palestrina, avec Cathy Rossignol")
 
 ##### 1991, musée du Carmel de Libourne
 
