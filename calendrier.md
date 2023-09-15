@@ -4,7 +4,7 @@ order: 3
 ---
 ### Prochain concerts :
 
-###### Dimanche 8 octobre 2023, 17h.
+#### Dimanche 8 octobre 2023, 17h.
 
 ##### Église de Saint-Germain-de-la-Rivière
 
@@ -12,7 +12,7 @@ Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.34651994705200195%2C44.94150373150721%2C-0.3181958198547364%2C44.953880900960996&amp;layer=mapnik&amp;marker=44.94769264984257%2C-0.33235788345336914" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/44.9477/-0.3324">Afficher une carte plus grande</a></small>
 
- ###### Samedi 16 septembre 2023, 17h30
+ #### Samedi 16 septembre 2023, 17h30
 
 ##### Église Saint-Pierre de Rauzan, .
 
