@@ -2,6 +2,10 @@
 title: "Quelques images"
 order: 6
 ---
+##### Octobre 2023, Saint Germain de la Rivière (33)
+
+![Église de Saint Germain de la Rivière](/images/web_2023-10-08-VinumBonum-StGermain-06.jpg)
+
 ##### 2022, Puy Fort Éguille (47)
 
 
