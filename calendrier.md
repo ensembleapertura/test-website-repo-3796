@@ -4,6 +4,7 @@ order: 3
 ---
 ### Prochain concerts :
 
+
 #### Dimanche 4 février 2024, 16h.
 
 ##### Église de Camarsac, 33
@@ -11,6 +12,7 @@ order: 3
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3647106885910035%2C44.82965051034206%2C-0.3611701726913452%2C44.83119891185341&amp;layer=mapnik&amp;marker=44.830424716297514%2C-0.3629404306411743" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.83042&amp;mlon=-0.36294#map=19/44.83042/-0.36294">Afficher une carte plus grande</a></small>
+
 
 #### Dimanche 8 octobre 2023, 17h.
 
@@ -25,13 +27,10 @@ Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 #### Samedi 16 septembre 2023, 17h30
 
-
 ##### Église Saint-Pierre de Rauzan, .
 
 Programme : Doulce mémoire.
 
 ![Affiche Rauzan](/images/web_COULEUR-Affiche-doulcememoire-Rauzan-2023-09-16-page001.jpg)
-
-
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.1360416412353516%2C44.7763441766101%2C-0.12187957763671876%2C44.78255087382528&amp;layer=mapnik&amp;marker=44.779447608617474%2C-0.12896060943603516" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.77945&amp;mlon=-0.12896#map=17/44.77945/-0.12896">Afficher une carte plus grande</a></small> 
