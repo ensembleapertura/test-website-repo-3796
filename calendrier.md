@@ -10,7 +10,7 @@ order: 3
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.36440223455429077%2C44.82963339019112%2C-0.3608617186546326%2C44.831181792162404&amp;layer=mapnik&amp;marker=44.83040759637654%2C-0.36263197660446167" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.83041&amp;mlon=-0.36263#map=19/44.83041/-0.36263">Afficher une carte plus grande</a></small>
+https://osm.org/go/b~~aprqmP?m=
 
 #### Dimanche 8 octobre 2023, 17h.
 
