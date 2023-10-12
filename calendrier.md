@@ -4,6 +4,14 @@ order: 3
 ---
 ### Prochain concerts :
 
+#### Dimanche 4 février 2024, 16h.
+
+##### Église de Camarsac, 33
+
+Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3647106885910035%2C44.82965051034206%2C-0.3611701726913452%2C44.83119891185341&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/44.83042/-0.36294">Afficher une carte plus grande</a></small>
+
 #### Dimanche 8 octobre 2023, 17h.
 
 ##### Église de Saint-Germain-de-la-Rivière
