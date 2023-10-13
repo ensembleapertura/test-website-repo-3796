@@ -17,7 +17,7 @@ Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 #### Dimanche 3 décembre 2023, 16h.
 
-##### Église de Camarsac, 33
+##### Église de Rauzan, 33
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
