@@ -13,7 +13,7 @@ order: 6
 
 ##### Au temple de Castillon La Bataille (33)
 
-![Temple de Castillon La Bataille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-Castillon.JPG?raw=true "Raccord avant le concert")
+![Temple de Castillon La Bataille](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/web_2022-Castillon.JPG?raw=true "Les instruments : raccord avant le concert")
 
 ##### 2019, en compagnie du conteur Thierry Giraud,  au Château Moulin de Lagnet, (Saint-Christophe-des-Bardes 33) programme Vinum Bonum
 
