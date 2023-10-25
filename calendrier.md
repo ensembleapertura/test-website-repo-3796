@@ -21,6 +21,8 @@ Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
+![Affiche Créon](/images/web_2023-vinumBonum-Affiche-Creon-page001.jpg)
+
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3497707843780518%2C44.77322344090511%2C-0.3462302684783936%2C44.77477335757&amp;layer=mapnik&amp;marker=44.77399840443724%2C-0.34800052642822266" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.77400&amp;mlon=-0.34800#map=19/44.77400/-0.34800">Afficher une carte plus grande</a></small>
 
 
