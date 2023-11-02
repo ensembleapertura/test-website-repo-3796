@@ -17,7 +17,7 @@ Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
 #### Dimanche 3 décembre 2023, 16h.
 
-##### Église de Créon, 33 - refusée par le curé local et transféré à la Salle Citoyenne (Mairie)
+##### Église de Créon, 33 - refusée par le curé local : concert transféré à la Salle Citoyenne (Mairie)
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
