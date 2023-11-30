@@ -6,7 +6,8 @@ order: 7
 
 ![Plaquette stage](/images/Stage-2024-lesOiseaux-affichette.jpeg)
 
-### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 juin, 20h30
+### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 juin, 20h30 
+
 
 ![Affiche concert caserne de Libourne](/images/web_AFFICHE ECL NOEL.jpg)
 
