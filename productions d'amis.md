@@ -2,6 +2,11 @@
 title: "Productions d'amis"
 order: 7
 ---
+##### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 juin, 20h30
+
+![Affiche concert caserne de Libourne](/images/web_AFFICHE ECL NOEL.jpg)
+
+
 ##### Orfeo 2000 une série de concerts dans le libournais. L’ensemble Orfeo 2000 revient dans les vignobles du Bordelais comme il le fait depuis plus de 20 ans. Le programme associera musiques des 17ème et 18ème siècles et la lecture du conte de Perrault le Petit Poucet.
 
 ![Dates des concerts, flyer](/images/web_Flyer-orfeo2000-2023-tous.jpg)
