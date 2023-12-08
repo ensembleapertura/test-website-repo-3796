@@ -3,6 +3,11 @@ title: "Les musiques"
 order: 4
 in_menu: true
 ---
+### 2024, Musique espagnole, Morales - Victoria
+
+Tout est en chantier : "Mille Regrets" la chanson de Josquin qu'aimait tant l'empereur Charles V, est utilisé par Morales pour sa messe éponyme.
+Et de Victoria qui n'a composé que de la musique sacrée, nous chanterons quelques motets... (à suivre)
+
 ### 2023, Vinum Bonum
 
 Nous reprenons le programme Vinum Bonum, contes & musiques de la Renaissance, donné incomplêtement une fois en 2019.
