@@ -1,14 +1,19 @@
 ---
 title: "Les musiques"
 order: 4
+in_menu: true
 ---
 ### 2023, Vinum Bonum
 
 Nous reprenons le programme Vinum Bonum, contes & musiques de la Renaissance, donné incomplêtement une fois en 2019.
+
 Les inventeurs des chansons à boire seraient les goliards, des poètes vagabonds formés dans les écoles monastiques. Ils écrivent en latin, en vieux français ou en allemand, n’hésitant pas à parodier des chants religieux.
+
 Nous rendrons hommage à la vigne et au vin avec des musiques vocales et instrumentales du 16ème siècle : textes rustiques, en français mais aussi mêlés de latin, détournement festif de textes sacrés.
+
 Nous chanterons et jouerons surtout des musiques de Roland de Lassus, de 4 à 8 voix, les instruments (violes et violon, flûtes, cornet, luth, harpe et percussions) joueront et répondront aux voix de la polyphonie.
-Claudin de Sermisy nous demande : « Voulez-vous chose plus bonne pour vendanger le grapillon ? Vive la serpe et le serpillon ».
+
+Claudin de Sermisy nous demande : « Voulez-vous chose plus honnête pour vendanger le grapillon ? Vive la serpe et le serpillon ».
 
 **Thierry Giraud, conteur,** qui nous avait raconté Roland Furieux lors d'un précédent programme d’APERTURA, nous contera cette fois des histoires en rapport avec nos chansons bachiques.
 
