@@ -11,7 +11,7 @@ Les inventeurs des chansons à boire seraient les goliards, des poètes vagabond
 
 Nous rendrons hommage à la vigne et au vin avec des musiques vocales et instrumentales du 16ème siècle : textes rustiques, en français mais aussi mêlés de latin, détournement festif de textes sacrés.
 
-Nous chanterons et jouerons surtout des musiques de Roland de Lassus, de 4 à 8 voix, les instruments (violes et violon, flûtes, cornet, luth, harpe et percussions) joueront et répondront aux voix de la polyphonie.
+Nous chanterons et jouerons surtout des musiques de Roland de Lassus, de 4 à 8 voix, les instruments (violes et violon, flûtes, cornet, luth et percussions) joueront et répondront aux voix de la polyphonie.
 
 Claudin de Sermisy nous demande : « Voulez-vous chose plus honnête pour vendanger le grapillon ? Vive la serpe et le serpillon ».
 
