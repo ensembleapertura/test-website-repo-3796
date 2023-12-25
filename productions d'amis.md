@@ -1,10 +1,11 @@
 ---
 title: "Productions d'amis"
 order: 7
+in_menu: true
 ---
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
 
-![Plaquette stage](/images/Stage-2024-lesOiseaux-affichette.jpeg)
+![Plaquette stage ECL 2024](/images/web_Stage-2024-lesOiseaux-affichette-page001.jpeg)
 
 ### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 juin, 20h30 
 
