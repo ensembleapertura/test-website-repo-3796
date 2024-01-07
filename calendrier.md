@@ -1,17 +1,17 @@
 ---
 title: "Calendrier"
 order: 3
+in_menu: true
 ---
 ### Prochain concerts :
 
 
-#### Dimanche 4 février 2024, 15h.
+#### Dimanche 4 février 2024, 15h30
 
 ##### Église de Camarsac, 33
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
 
-![Affiche Camarsac](/images/web_2024-vinumBonum-Affiche-Camarsac-15h-page001.jpeg)
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3647106885910035%2C44.82965051034206%2C-0.3611701726913452%2C44.83119891185341&amp;layer=mapnik&amp;marker=44.830424716297514%2C-0.3629404306411743" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.83042&amp;mlon=-0.36294#map=19/44.83042/-0.36294">Afficher une carte plus grande</a></small>
 
