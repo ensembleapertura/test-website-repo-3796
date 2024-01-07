@@ -1,5 +1,5 @@
 ---
-title: "Productions d'amis"
+title: "Productions locales"
 order: 7
 in_menu: true
 ---
