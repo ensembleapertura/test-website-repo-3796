@@ -7,6 +7,13 @@ in_menu: true
 
 ![Plaquette stage ECL 2024](/images/web_Stage-2024-lesOiseaux-affichette-page001.jpeg)
 
+### 12ème saison de concerts de musique de chambre au temple de Libourne
+
+![Affichette des concerts de musique de chambre]({% link images/Flyer_2023_R_PRINT.pdf %})
+
+![Calendrier des concerts]({% link images/Flyer_2023_V_web.jpg %})
+
+
 ### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 décembre 2023, 20h30 
 
 
