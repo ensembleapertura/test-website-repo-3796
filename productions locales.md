@@ -5,6 +5,8 @@ in_menu: true
 ---
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
 
+Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Jean Arzel.
+
 ![Plaquette stage ECL 2024](/images/web_Stage-2024-lesOiseaux-affichette-page001.jpeg)
 
 ### 12ème saison de concerts de musique de chambre au temple de Libourne
