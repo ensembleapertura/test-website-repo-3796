@@ -11,7 +11,7 @@ Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Je
 
 ### 12ème saison de concerts de musique de chambre au temple de Libourne
 
-![Concert Touche&Sonne, 10 mars](/images/web_afficheTemp)le-2024-03-10-TeS.jpg)
+![Texte décrivant l'image]({% link images/web_afficheTemple-2024-03-10-TeS.jpg %})
 
 ![Calendrier des concerts](/images/Flyer_2023_V_web.jpg %})
 
