@@ -13,7 +13,7 @@ Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Je
 
 ![Concert Touche&Sonne, 10 mars](/images/web_afficheTemple-2024-03-10-TeS.jpg )
 
-![Calendrier des concerts](/images/Flyer_2023_V_web.jpg %})
+![Calendrier des concerts](/images/Flyer_2023_V_web.jpg)
 
 
 ### L'Ensemble Choral de Libourne et l'Harmonie de Libourne donnent un concert  de Noël à la Caserne de Libourne (mess) le vendredi 15 décembre 2023, 20h30 
