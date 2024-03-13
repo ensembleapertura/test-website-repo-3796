@@ -9,6 +9,10 @@ Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Je
 
 ![Plaquette stage ECL 2024](/images/web_Stage-2024-lesOiseaux-affichette-page001.jpeg)
 
+### Concert Marc-Antoine CHARPENTIER de l'Ensemble Choral de Libourne
+
+![Affiche concert ECL, église de Condat]({% link images/web_2024-02-afficheECL-4 copie.jpg %})
+
 ### 12ème saison de concerts de musique de chambre au temple de Libourne
 
 ![Concert Touche&Sonne, 10 mars](/images/web_afficheTemple-2024-03-10-TeS.jpg )
