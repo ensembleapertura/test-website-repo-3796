@@ -9,6 +9,8 @@ Tout est en chantier : "Mille Regrets" la chanson de Josquin qu'aimait tant l'em
 La basse "La Spagna" sur laquelle Diego Ortiz propose des recercare, "Un cavalier di Spagna", une chanson italienne.
 Dans les insallada de Flecha, nous travaillons "la bomba". L'histoire d'un bateau qui coule...
 Et de Victoria qui n'a composé que de la musique sacrée, nous chanterons quelques motets... (à suivre)
+Comme Thierry Giraud sera de nouveau avec nous peut-être qu'il y aura du Cervantes ?
+
 
 ### 2023, Vinum Bonum
 
