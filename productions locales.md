@@ -3,6 +3,10 @@ title: "Productions locales"
 order: 7
 in_menu: true
 ---
+### L'Ensemble Choral de Libourne donne un concert de musiques variées, du baroque à la musique latino, à Saint-Christophe-des-Bardes le 7 juin 2024, 20h30.
+
+![Affiche concert ECL, St Christophe des Bardes, 7 juin à l'église]({% link images/web_2024-ecl-ConcertStChristopheBardes-affiche.jpeg %})
+
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
 
 Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Jean Arzel.
