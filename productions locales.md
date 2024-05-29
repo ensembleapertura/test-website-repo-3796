@@ -7,15 +7,18 @@ in_menu: true
 
 ![Affiche concert ECL, St Christophe des Bardes, 7 juin à l'église]({% link images/web_2024-ecl-ConcertStChristopheBardes-affiche.jpeg %})
 
+
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
 
 Nous serons en compagnie (bienveillante) de Nadine Gabard, Laurent Cerciat et Jean Arzel.
 
 ![Plaquette stage ECL 2024](/images/web_Stage-2024-lesOiseaux-affichette-page001.jpeg)
 
+
 ### Concert Marc-Antoine CHARPENTIER de l'Ensemble Choral de Libourne le vendredi 12 avril 2024
 
 ![Affiche concert ECL, église de Condat-12/04/2024](/images/web_2024-02-afficheECL-4 copie.jpg)
+
 
 ### 12ème saison de concerts de musique de chambre au temple de Libourne
 
