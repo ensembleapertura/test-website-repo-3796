@@ -7,6 +7,10 @@ in_menu: true
 
 ![Affiche concert ECL, St Christophe des Bardes, 7 juin à l'église](/images/web_2024-ecl-ConcertStChristopheBardes-affiche.jpeg)
 
+### Ou à Arès (33) le 8 juin.
+
+![Concert Arès, 20h30, le 8 juin, église]({% link images/2024-06-concert Ares-affiche.jpg %})
+
 
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
 
