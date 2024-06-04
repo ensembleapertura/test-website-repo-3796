@@ -9,7 +9,7 @@ in_menu: true
 
 ### Ou à Arès (33) le 8 juin.
 
-![Concert Arès, 20h30, le 8 juin, église]({/images/2024-06-concert Ares-affiche.jpg )
+![Concert Arès, 20h30, le 8 juin, église]({/images/2024-06-concertAres-affiche.jpg )
 
 
 ### 14ème Stage de Chant Choral, Technique Vocale et Méthode Fesdenkrais à Saint Germain de la Rivière (33), du 6 au 9 juillet 2024, organisé par l'Ensemble Choral de Libourne.
