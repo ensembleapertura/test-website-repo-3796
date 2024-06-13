@@ -5,7 +5,8 @@ in_menu: true
 ---
 ### FAITES DE LA MUSIQUE, c'est bien le 21 juin au temple de Libourne (place du doyen Carbonnier, 33500) de 20h30 à 22h.
 
- Au milieu des choristes de la chorale de l'Université du Temps Libre et de l'Ensemble Choral de Libourne venez chanter quelques chansons. On apprend la mélodie puis vous chantes soutenus par la polyphonie des chanteurs. Impression magique garantie !
+ Au milieu des choristes de la chorale de l'Université du Temps Libre et de l'Ensemble Choral de Libourne venez chanter quelques chansons. On apprend la mélodie puis vous chantez soutenus par la polyphonie des chanteurs. 
+Impression magique garantie !
 
 ### L'Ensemble Choral de Libourne donne un concert de musiques variées, du baroque à la musique latino, à Saint-Christophe-des-Bardes le 7 juin 2024, 20h30.
 
