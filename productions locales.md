@@ -3,6 +3,10 @@ title: "Productions locales"
 order: 7
 in_menu: true
 ---
+### Orfeo 2000 une série de concerts dans le libournais. L’ensemble Orfeo 2000 (2 flûtes et clavecin) revient dans les vignobles du Bordelais comme il le fait depuis plus de 20 ans. Au programme des musiques des 17ème et 18ème siècles. Temple de Libourne le mardi 20 août, église de St-Christophe-des-Bardes le mercredi 21 août et le jeudi 22 août au temple de Castillon-la-Bataille. Concerts à 19h.
+
+![Affichette concert : Bach, Händel, Castello, Orme. renseignements 06 30 49 44 29]({% link images/2024-orfeo2000-Libournais.jpg %})
+
 ### FAITES DE LA MUSIQUE, c'est bien le 21 juin au temple de Libourne (place du doyen Carbonnier, 33500) de 20h30 à 22h.
 
  Au milieu des choristes de la chorale de l'Université du Temps Libre et de l'Ensemble Choral de Libourne venez chanter quelques chansons. On apprend la mélodie puis vous chantez soutenus par la polyphonie des chanteurs. 
