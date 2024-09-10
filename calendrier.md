@@ -5,6 +5,12 @@ in_menu: true
 ---
 ### Prochain concerts :
 
+#### Église de Saint-Christophe-des-Bardes, samedi 23 novembre 2024, 20h30
+
+Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.12576878070831302%2C44.89529738559965%2C-0.1186877489089966%2C44.898398217679485&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/44.896848/-0.122228">Afficher une carte plus grande</a></small>
+
 
 #### Dimanche 4 février 2024, 15h30
 
