@@ -3,6 +3,13 @@ title: "Productions locales"
 order: 7
 in_menu: true
 ---
+### 13ème saison de musique de chambre au temple de Libourne (33500)
+
+![Saison 2024-2025, 6 concerts]({% link images/web_2024-flyer-Temple-R.jpg %})
+
+![Calendrier des concerts, d'octobre à avril 2025]({% link images/web_2024-flyer-Temple-V.jpg %})
+
+
 ### Orfeo 2000 une série de concerts dans le libournais. L’ensemble Orfeo 2000 (2 flûtes et clavecin) revient dans les vignobles du Bordelais comme il le fait depuis plus de 20 ans. Au programme des musiques des 17ème et 18ème siècles. Temple de Libourne le mardi 20 août, église de St-Christophe-des-Bardes le mercredi 21 août et le jeudi 22 août au temple de Castillon-la-Bataille. Concerts à 19h.
 
 ![Affichette concert : Bach, Händel, Castello, Orme. renseignements 06 30 49 44 29](images/2024-orfeo2000-Libournais.jpg)
