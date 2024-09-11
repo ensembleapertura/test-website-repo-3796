@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### 13ème saison de musique de chambre au temple de Libourne (33500)
 
-![Saison 2024-2025, 6 concerts]({% link images/web_2024-flyer-Temple-R.jpg %})
+![Saison 2024-2025, 6 concerts](images/web_2024-flyer-Temple-R.jpg)
 
 ![Calendrier des concerts, d'octobre à avril 2025]({% link images/web_2024-flyer-Temple-V.jpg %})
 
