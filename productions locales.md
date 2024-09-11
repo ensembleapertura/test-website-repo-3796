@@ -9,6 +9,8 @@ in_menu: true
 
 ![Calendrier des concerts, d'octobre à avril 2025]({% link images/web_2024-flyer-Temple-V.jpg %})
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.24385571479797366%2C44.91112089837297%2C-0.2404090762138367%2C44.91283806409485&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/44.911979/-0.242132&amp;layers=N">Afficher une carte plus grande</a></small>
+
 
 ### Orfeo 2000 une série de concerts dans le libournais. L’ensemble Orfeo 2000 (2 flûtes et clavecin) revient dans les vignobles du Bordelais comme il le fait depuis plus de 20 ans. Au programme des musiques des 17ème et 18ème siècles. Temple de Libourne le mardi 20 août, église de St-Christophe-des-Bardes le mercredi 21 août et le jeudi 22 août au temple de Castillon-la-Bataille. Concerts à 19h.
 
