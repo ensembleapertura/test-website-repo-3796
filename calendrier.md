@@ -8,8 +8,7 @@ in_menu: true
 #### Église de Saint-Christophe-des-Bardes, samedi 23 novembre 2024, 20h30
 
 Programme : Vinum Bonum, en compagnie de Thierry Giraud, conteur.
-
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.12576878070831302%2C44.89529738559965%2C-0.1186877489089966%2C44.898398217679485&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/44.896848/-0.122228">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.1241433620452881%2C44.89615621122702%2C-0.1206028461456299%2C44.89770662501283&amp;layer=mapnik&amp;marker=44.89693142334532%2C-0.12237310409545898" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.896931&amp;mlon=-0.122373#map=19/44.896931/-0.122373&amp;layers=N">Afficher une carte plus grande</a></small>
 
 
 #### Dimanche 4 février 2024, 15h30
