@@ -3,6 +3,10 @@ title: "Productions locales"
 order: 7
 in_menu: true
 ---
+### Concert au temple, Flow Consort le 13 octobre
+
+![Quatuor de flûtes à bec](images/web_2024-10-13-Temple-FlowConsort.jpg)
+
 ### 13ème saison de musique de chambre au temple de Libourne (33500)
 
 ![Saison 2024-2025, 6 concerts](images/web_2024-flyer-Temple-R.jpg)
