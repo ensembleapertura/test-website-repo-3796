@@ -3,6 +3,8 @@ title: "Productions locales"
 order: 7
 in_menu: true
 ---
+### Concert au temple, Trio Commixtus : 2 hautbois, un basson, le 17 novembre
+ 
 ### Concert au temple, Flow Consort le 13 octobre
 
 ![Quatuor de flûtes à bec](images/web_2024-10-13-Temple-FlowConsort.jpg)
