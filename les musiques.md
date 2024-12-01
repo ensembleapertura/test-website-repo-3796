@@ -26,7 +26,7 @@ Nous chantons et jouons surtout des musiques de Roland de Lassus, de 4 à 8 voix
 
 Claudin de Sermisy nous demande : « Voulez-vous chose plus honnête pour vendanger le grapillon ? Vive la serpe et le serpillon ».
 
-**Thierry Giraud, conteur,** qui nous avait raconté Roland Furieux lors d'un précédent programme d’APERTURA, nous conte cette fois des histoires en rapport avec nos chansons bachiques.
+**Thierry Giraud, conteur,** qui nous avait raconté Roland Furieux lors d'un précédent programme d’APERTURA, nous conte cette fois des histoires en rapport avec nos chansons bachiques et avec le vin.
 
 ![2019-Présentation programme "Vinum Bonum"](https://github.com/ensembleapertura/test-website-repo-3796/blob/main/images/Couverture-VinumBonum.png?raw=true)
 
