@@ -3,7 +3,7 @@ title: "Les musiques"
 order: 4
 in_menu: true
 ---
-### 2024, Musique espagnole, Morales - Victoria
+### 2024-2025, Musique espagnole, Morales - Victoria
 
 Tout est en chantier, il y aura différentes parties intercallées de contes. Au début "La Spagna" puis "Mille Regrets", "La Bomba" et Victoria pour finir. 
 
