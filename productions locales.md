@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### Concert au temple, le 26 janvier 2025 : Quatuor La Boétie et Jean-Marie Juan (clarinette) pour Brahms, l'opus 115.
 
-![Quatuor La Boétie et Jean-Marie Juan (clarinette) pour Brahms, l'opus 115]({% link images/web_03-temple-LaBoetie.jpg %})
+![Quatuor La Boétie et Jean-Marie Juan (clarinette) pour Brahms, l'opus 115](images/web_03-temple-LaBoetie.jpg)
 
 ### Concert au temple, Trio Commixtus : 2 hautbois, un basson, le 17 novembre
  
