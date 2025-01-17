@@ -1,5 +1,5 @@
 ---
-title: "Productions locales (Libournais)"
+title: "Productions locales (Libournais, 33)"
 order: 7
 in_menu: true
 ---
