@@ -3,6 +3,10 @@ title: "Productions locales (Libournais, 33)"
 order: 7
 in_menu: true
 ---
+### Concert au temple, le 16 février 2025 : le duo Palissandre, 2 guitaristes,  Vanessa Dartier et Yann Dufresne. Voyage en guitare(s) : Rameau, Fauré, Bach...
+
+![Affiche duo de guitares Palissandre](images/web_04-temple-Palissandre.jpg)
+
 ### Concert au temple, le 26 janvier 2025 : Quatuor La Boétie et Jean-Marie Juan (clarinette). On entendra entre autre de Brahms, l'opus 115.
 
 ![Quatuor La Boétie et Jean-Marie Juan (clarinette) pour Brahms, l'opus 115](images/web_03-temple-LaBoetie.jpg)
