@@ -3,6 +3,8 @@ title: "Productions locales (Libournais, 33)"
 order: 7
 in_menu: true
 ---
+### Concert au temple, le 16 mars : TOUCHE&SONNE, au programme Tarquinio Merula (1595-1665). Canzone et sonate, mais aussi aria et motets. Un chanteur, violon, cornet ou flûte, dulciane et clavecin.
+
 ### Concert au temple, le 16 février 2025 : le duo Palissandre, 2 guitaristes,  Vanessa Dartier et Yann Dufresne. Voyage en guitare(s) : Rameau, Fauré, Bach...
 
 ![Affiche duo de guitares Palissandre](images/web_04-temple-Palissandre.jpg)
